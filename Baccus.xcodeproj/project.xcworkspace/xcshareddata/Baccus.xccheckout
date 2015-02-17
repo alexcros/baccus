@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F1F431E2-69BA-40EF-BB77-F13B518EA8E5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Baccus</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6E70F459D4C18B7EBB447F3B1C14D27E90B8FAAF</key>
+		<string>https://github.com/alexcros/baccus.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Baccus.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6E70F459D4C18B7EBB447F3B1C14D27E90B8FAAF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alexcros/baccus.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6E70F459D4C18B7EBB447F3B1C14D27E90B8FAAF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6E70F459D4C18B7EBB447F3B1C14D27E90B8FAAF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Baccus</string>
+		</dict>
+	</array>
+</dict>
+</plist>
